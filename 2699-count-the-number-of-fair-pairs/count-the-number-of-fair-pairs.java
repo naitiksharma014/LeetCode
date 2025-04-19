@@ -1,5 +1,8 @@
 class Solution {
     public long countFairPairs(int[] nums, int lower, int upper) {
+
+        //TIME COMPLEXIVITY-- O(n^2)
+
         
     //     int count=0;
 
@@ -15,7 +18,10 @@ class Solution {
     //     return count;
     // }
      
-    
+
+       //TIME COMPLEXIVITY-- O(nlogn)
+
+        
       int n=nums.length;
       Arrays.sort(nums);
 
