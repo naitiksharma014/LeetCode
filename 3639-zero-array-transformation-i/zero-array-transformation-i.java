@@ -1,5 +1,8 @@
 class Solution {
     public boolean isZeroArray(int[] nums, int[][] queries) {
+
+        //TC: O(Q * n)
+        
         int n=nums.length;
         
 
