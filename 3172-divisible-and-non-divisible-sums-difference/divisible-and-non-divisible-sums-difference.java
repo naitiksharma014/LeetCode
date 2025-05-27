@@ -1,19 +1,9 @@
 class Solution {
     public int differenceOfSums(int n, int m) {
-       int val1=n*(n+1)/2;
-       int i=m;
-       int val2=0;
-       //if(m==1){
-       // return 0-val1;
-       //}
-       
-       while(i<=n){
-        
-         val2 +=i;
-         i+=m;
-        
-       } 
+      int k=n/m;
+      int divisiblebym=m*k*(k+1)/2;
+      int totalsum=n*(n+1)/2;
 
-       return  val1-2*val2;
+      return totalsum-2*divisiblebym;
     }
 }
