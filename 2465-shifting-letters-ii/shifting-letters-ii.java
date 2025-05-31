@@ -25,8 +25,8 @@ class Solution {
       StringBuilder result=new StringBuilder(s);
       for(int i=0;i<n;i++){
        
-        int shift=difference[i];
-         shift=shift%26;
+        int shift=difference[i]%26;
+        //  shift=shift%26;
         if(shift<0) shift=shift+26;
 
       char newChar=(char)(((result.charAt(i)-'a' + shift) %26) +'a');
