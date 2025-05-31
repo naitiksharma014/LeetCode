@@ -23,18 +23,18 @@ class Solution {
 
 
         //Step 2: Result Array
-        int result[]=new int[n];
+        // int result[]=new int[n];
         int currSum=0;
         for(int i=0;i<n;i++){
             currSum+=diff[i];
-            result[i]=currSum;
+            diff[i]=currSum;
           
         }
 
         
         //Step 3: Check
         for(int i=0;i<n;i++){
-            if(nums[i]>result[i])return false;
+            if(nums[i]>diff[i])return false;
         }
         return true;
         
