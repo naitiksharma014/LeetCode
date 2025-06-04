@@ -10,11 +10,8 @@ class Solution {
         }
 
         for(int i=0;i<n;i++){
-            
-            
-
-            int temp = candies[i] + extraCandies;
-            if(temp>=max){
+        
+            if(candies[i] + extraCandies >= max){
                 list.add(true);
             }
             else list.add(false);
