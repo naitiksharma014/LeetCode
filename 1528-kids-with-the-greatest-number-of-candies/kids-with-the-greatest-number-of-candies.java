@@ -7,7 +7,10 @@ class Solution {
 
         for(int i=1;i<n;i++){
             // max = Math.max(max,candies[i]);
-            if(candies[i]>max) max=candies[i];
+            if(candies[i] > max) 
+            {
+                max=candies[i];
+            }    
         }
 
         for(int i=0;i<n;i++){
@@ -15,7 +18,9 @@ class Solution {
             if(candies[i] + extraCandies >= max){
                 list.add(true);
             }
-            else list.add(false);
+            else{
+                list.add(false);
+            } 
         }
         return list;
     }
