@@ -6,7 +6,8 @@ class Solution {
         int n=candies.length;
 
         for(int i=1;i<n;i++){
-            max = Math.max(max,candies[i]);
+            // max = Math.max(max,candies[i]);
+            if(candies[i]>max) max=candies[i];
         }
 
         for(int i=0;i<n;i++){
