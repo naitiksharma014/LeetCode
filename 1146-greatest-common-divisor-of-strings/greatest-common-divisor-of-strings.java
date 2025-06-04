@@ -1,15 +1,15 @@
 class Solution {
 
     public int gcd(int a, int b){
-        int result = Math.min(a,b);
+        // int result = Math.min(a,b);
 
-        while(result>0){
-            if(a%result==0 && b%result==0){
-                break;
-            }
-            result--;
+       while (b != 0) {
+            var tmp = b;
+            b = a % b;
+            a = tmp;
         }
-        return result;
+        return a;
+
     }
 
     public String gcdOfStrings(String str1, String str2) {
