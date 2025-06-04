@@ -2,10 +2,10 @@ class Solution {
     public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         ArrayList<Boolean> list = new ArrayList<>();
 
-        int max = Integer.MIN_VALUE;
+        int max = candies[0];
         int n=candies.length;
 
-        for(int i=0;i<n;i++){
+        for(int i=1;i<n;i++){
             max = Math.max(max,candies[i]);
         }
 
