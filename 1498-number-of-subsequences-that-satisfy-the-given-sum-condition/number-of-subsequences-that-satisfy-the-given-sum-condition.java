@@ -1,7 +1,7 @@
 class Solution {
     public int numSubseq(int[] nums, int target) {
         Arrays.sort(nums);
-        int n=nums.length;
+        int n = nums.length;
 
         int M = 1000000007;
 
