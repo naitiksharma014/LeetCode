@@ -6,8 +6,8 @@ class Solution {
         int currSum = 0;
         int max = nums[0];
         
-        for( int i=0 ; i<n ; i++){
-            currSum += nums[i];
+        for(int i: nums){
+            currSum += i;
             max = Math.max( max , currSum );
             if( currSum < 0 ){
                 currSum = 0;
