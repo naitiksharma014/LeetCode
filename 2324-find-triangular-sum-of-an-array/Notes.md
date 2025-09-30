@@ -1,1 +1,1 @@
-<h2>find-triangular-sum-of-an-array Notes</h2><hr>[ Time taken: 18 hrs 42 m 39 s ]
+<h2>find-triangular-sum-of-an-array Notes</h2><hr>[ Time taken: 18 hrs 50 m 52 s ]
