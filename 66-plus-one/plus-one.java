@@ -6,22 +6,13 @@ class Solution {
 
             if(digits[i] < 9){
                 digits[i]++;
-                break;
+                return digits;
             }    
-            else digits[i] = 0;
+            digits[i] = 0;
         }
         
-        int[] arr = new int[n + 1];
-        if(digits[0] == 0){
-           
-           arr[0] = 1;
-           for(int i = 1 ; i < n + 1 ; i++){
-                
-                arr[i] = digits[i - 1];
-            }
-            return arr;
-
-        }
-        return digits;
+        int[] newDigits = new int[n + 1];
+        newDigits[0] = 1;
+        return newDigits;
     }
 }
