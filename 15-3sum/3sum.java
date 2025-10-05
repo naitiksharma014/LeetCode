@@ -27,7 +27,7 @@ class Solution {
         ArrayList<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
 
-        for(int i = 0 ; i < n - 2 ; i++){
+        for(int i = 0 ; i < n - 1 ; i++){
 
             if(i != 0 && nums[i] == nums[i - 1]) continue;
             int target = nums[i];
