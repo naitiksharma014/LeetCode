@@ -17,19 +17,19 @@ class Solution {
     int maxDiff = Integer.MAX_VALUE;
     TreeNode prev = null;
 
-    public void inOrder(TreeNode root ){
+    public void inOrder(TreeNode root){
         if(root == null) return;
         
-        inOrder(root.left );
+        inOrder(root.left);
 
         if(prev != null){
             maxDiff = Math.min(maxDiff , root.val - prev.val);
         }
         prev = root;
-        inOrder(root.right );
+        inOrder(root.right);
     }
     public int minDiffInBST(TreeNode root) {
-        inOrder(root );
+        inOrder(root);
 
         return maxDiff;
     }
