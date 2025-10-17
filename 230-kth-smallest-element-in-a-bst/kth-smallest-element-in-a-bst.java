@@ -27,7 +27,7 @@ class Solution {
 
         inOrder(root , list);
 
-        if(list.size() < 2) return root.val;
+        //if(list.size() < 2) return root.val;
 
         return list.get(k - 1);
     }
