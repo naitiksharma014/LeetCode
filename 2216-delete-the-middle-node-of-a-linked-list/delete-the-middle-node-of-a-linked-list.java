@@ -19,18 +19,20 @@ class Solution {
             n++;
             temp = temp.next;
         }
-        temp = head;
-         if(n < 2){
+
+        if(n < 2){
             head.next = null;
             return head;
         }
+
+        temp = head;
         n = n / 2;
-        System.out.print(n);
        
         while(n != 1 ){
            temp = temp.next;
            n--;
         }
+        
         temp.next = temp.next.next;
         
         return head;
