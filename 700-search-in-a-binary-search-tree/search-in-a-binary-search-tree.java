@@ -14,19 +14,6 @@
  * }
  */
 class Solution {
-    // public TreeNode solve(TreeNode root, int val){
-    //     if(root == null) return null;
-        
-    //     if(root.val == val) return root;
-
-    //     else if(root.val > val){
-    //         return solve(root.left , val);
-    //     }
-    //     else{
-    //         return solve(root.right , val);
-    //     }
-        
-    // }
     public TreeNode searchBST(TreeNode root, int val) {
         if(root == null || root.val == val) return root;
 
