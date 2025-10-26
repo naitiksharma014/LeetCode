@@ -19,8 +19,6 @@ class Bank {
         
         balance[account1 - 1] -= money;
         balance[account2 - 1] += money;
-
-        //if(balance[account1 - 1] < 0) return false;
         
         return true;
     }
@@ -38,7 +36,6 @@ class Bank {
        if (balance[account - 1] < money) return false;
 
         balance[account - 1] -= money;
-        //if(balance[account - 1] < 0) return false;
         
         return true;
     }
