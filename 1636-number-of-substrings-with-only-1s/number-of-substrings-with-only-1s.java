@@ -6,14 +6,14 @@ class Solution {
 
         for(char ch : s.toCharArray()){
 
-            if(ch == '1') count++;
+            if(ch == '1'){
+                count++;
+                res = (res + count) % M;
+            }
             else{
-                res = (res + (count * (count + 1)) / 2) % M;
                 count = 0;
             }
         }
-
-        res = (res + (count * (count + 1) / 2)) % M;
 
         return (int) res;
     }
