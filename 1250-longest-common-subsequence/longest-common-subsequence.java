@@ -21,7 +21,7 @@ class Solution {
         m = text1.length();
         n = text2.length();
 
-        dp = new int[m+1][n+1];
+        dp = new int[1001][1001];
         for(int i = 0; i < m; i++){
             Arrays.fill(dp[i] , -1);
         }
