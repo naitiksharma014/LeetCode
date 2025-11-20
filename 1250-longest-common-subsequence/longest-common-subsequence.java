@@ -22,7 +22,7 @@ class Solution {
         n = text2.length();
 
         dp = new int[1001][1001];
-        for(int i = 0; i < m; i++){
+        for(int i = 0; i < 1001; i++){
             Arrays.fill(dp[i] , -1);
         }
 
