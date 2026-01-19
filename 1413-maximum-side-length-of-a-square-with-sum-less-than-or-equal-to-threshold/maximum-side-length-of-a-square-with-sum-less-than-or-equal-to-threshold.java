@@ -22,7 +22,7 @@ class Solution {
         for(int i = 0; i < rows; i++){
             for(int j = 0; j < cols; j++){
 
-                for(int offset = 0; offset < Math.min(rows - i, cols - j); offset++){
+                for(int offset = best; offset < Math.min(rows - i, cols - j); offset++){
 
                     int x1 = i, y1 = j;
                     int x2 = i + offset, y2 = j + offset;
