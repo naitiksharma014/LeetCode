@@ -1,3 +1,42 @@
+// -------------------------------------------------------------- (APPROACH - 1)--------------------------------------------------------------------------------------
+// Brute Force
+// O(n * max(nums[i])
+
+
+class Solution {
+    public int[] minBitwiseArray(List<Integer> nums) {
+        int n = nums.size();
+        int[] ans = new int[n];
+
+        for(int i = 0; i < n; i++){
+
+            boolean found = false;
+
+            for(int j = 1; j < nums.get(i); j++){
+
+                if( (j | (j + 1)) == nums.get(i)){
+                    ans[i] = j;
+                    found = true;
+                    break;
+                }
+            }
+
+            if(!found){
+                ans[i] = -1;
+            }
+        }
+
+        return ans;
+    }
+}
+
+
+// -------------------------------------------------------------- (APPROACH - 2)--------------------------------------------------------------------------------------
+// Optimal
+// O(n * 32) = O(n)
+
+
+
 class Solution {
     public int[] minBitwiseArray(List<Integer> nums) {
         int n = nums.size();
