@@ -1,9 +1,9 @@
 class Solution {
     public int minimumCost(int[] nums) {
         int n = nums.length;
-        int cost = nums[0];
-        int min1 = 51;
-        int min2 = 51;
+        int first = nums[0];
+        int min1 = Integer.MAX_VALUE;
+        int min2 = Integer.MAX_VALUE;
 
         
         for(int i = 1; i < n; i++){
@@ -17,6 +17,6 @@ class Solution {
             }
         }
 
-        return cost + min1 + min2;
+        return first + min1 + min2;
     }
 }
