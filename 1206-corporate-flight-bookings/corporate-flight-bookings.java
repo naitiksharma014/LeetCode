@@ -1,3 +1,4 @@
+//--------------------------------------------------------(Approach - 1)-------------------------------------------------------------------------
 // Line Sweep Technique
 // TC: O(N log M)
 // SC: O(M)
@@ -29,5 +30,40 @@ class Solution {
         } 
 
         return result;     
+    }
+}
+
+
+
+
+//--------------------------------------------------------(Approach - 2)-------------------------------------------------------------------------
+// Difference Array
+// Time: O(M + N) 
+// Space: O(N)
+ 
+class Solution {
+    public int[] corpFlightBookings(int[][] bookings, int n) {
+        int[] diffArray = new int[n + 2];
+
+        for(int[] booking: bookings){
+
+            int start = booking[0];
+            int end   = booking[1];
+            int seat  = booking[2];
+
+            diffArray[start]   += seat;
+            diffArray[end + 1] -= seat;
+        }
+
+        int[] result = new int[n];
+        int currSum = 0;
+
+        for(int i = 1; i <= n; i++){
+
+            currSum += diffArray[i];
+            result[i - 1] = currSum;
+        }
+
+        return result;
     }
 }
