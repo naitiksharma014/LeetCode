@@ -1,17 +1,15 @@
-// TC: O(log n)
-
 class Solution {
     public boolean hasAlternatingBits(int n) {
-        int prev = -1;
+        String bits = Integer.toBinaryString(n);
 
-        while(n > 0){
+        for(int i = 0; i < bits.length() - 1; i++){
 
-            int curr = n % 2;
-            if(prev == curr) return false;
-            prev = curr;
-            n = n / 2;
+            if(bits.charAt(i) == bits.charAt(i + 1)){
+                return false;
+            }
         }
 
         return true;
+
     }
 }
