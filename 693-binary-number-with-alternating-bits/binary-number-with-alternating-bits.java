@@ -1,3 +1,5 @@
+// TC: O(log n)
+
 class Solution {
     public boolean hasAlternatingBits(int n) {
         int prev = -1;
