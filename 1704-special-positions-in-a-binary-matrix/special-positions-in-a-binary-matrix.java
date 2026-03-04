@@ -1,6 +1,7 @@
-//-----------------------------------(Approach - 1)----------------------------------------
+//-------------------------------------------------------------------------------(Approach - 1)----------------------------------------------------------------------------------------------------
 // TC: O(m * n * (m + n))
 // SC: O(1)
+// Brute Force
 
 class Solution {
     public boolean checkRow(int[][] arr, int i, int j, int n){
@@ -31,6 +32,48 @@ class Solution {
             for(int j = 0; j < n; j++){
 
                 if(mat[i][j] == 1 && checkRow(mat, i, j, n) && checkCol(mat, i, j, m)){
+                    count++;
+                }
+            }
+        }
+
+        return count;
+    }
+}
+
+
+
+//-------------------------------------------------------------------------------(Approach - 2)----------------------------------------------------------------------------------------------------
+// TC: O(m * n)
+// SC: O(m + n)
+// Optimal
+
+class Solution {
+    public int numSpecial(int[][] mat) {
+        int m = mat.length;
+        int n = mat[0].length;
+
+        int[] row = new int[m];
+        int[] col = new int[n];
+
+        for(int i = 0; i < m; i++){
+
+            for(int j = 0; j < n; j++){
+
+                if(mat[i][j] == 1){
+                    row[i]++;
+                    col[j]++;
+                }
+            }
+        }
+
+        int count = 0;
+
+        for(int i = 0; i < m; i++){
+
+            for(int j = 0; j < n; j++){
+
+                if(mat[i][j] == 1 && row[i] == 1 && col[j] == 1){
                     count++;
                 }
             }
