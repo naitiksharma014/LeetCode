@@ -1,38 +1,38 @@
+// TC: O(3 × 2ⁿ⁻¹) ≈ O(2ⁿ)
+// SC: O(n)
+
 class Solution {
     int count = 0;
-    String ans = "";
-    char prev = '*';
-    ArrayList<String> list = new ArrayList<>();
+    String result = "";
 
     public void solve(int n, int k, char[] arr, StringBuilder sb){
         if(sb.length() == n){
-            list.add(sb.toString());
+            count++;
+            
+            if(count == k){
+                result = sb.toString();
+            }
             return;
         }
-
-        if(list.size() >= k) return;
-
 
         for(int i = 0; i < 3; i++){
 
             char curr = arr[i];
             if(sb.length() > 0 && sb.charAt(sb.length() - 1) == curr) continue;
 
-            sb.append(curr);
+            sb.append(curr);                        // Append
+     
+            solve(n, k, arr, sb);                   // Explore
     
-
-            solve(n, k, arr, sb);
-    
-            sb.deleteCharAt(sb.length() - 1);
+            sb.deleteCharAt(sb.length() - 1);       // Backtrack
         }
     }
+
     public String getHappyString(int n, int k) {
         char[] arr = {'a','b','c'};
 
         solve(n, k, arr, new StringBuilder());
 
-        if(list.size() < k) return "";
-
-        return list.get(k - 1);
+        return result;
     }
 }
