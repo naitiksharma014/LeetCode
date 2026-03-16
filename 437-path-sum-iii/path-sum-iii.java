@@ -13,27 +13,39 @@
  *     }
  * }
  */
+
+// TC: O(n)
+// Sc: O(n)
+
 class Solution {
-    public int solve(TreeNode root, long targetSum){
-        if(root == null) return 0;
+    int count = 0;
+    Map<Long, Integer> map = new HashMap<>();
 
-        int count = 0;
+    public void dfs(TreeNode root, int k, long currSum){
+        if(root == null){
+            return;
+        }
+
+        currSum = (long) currSum + root.val;
         
-        if(root.val == targetSum) count++;
+        if(currSum == (long) k){
+            count++;
+        }
+        if(map.containsKey(currSum - k)){
+            count += map.get(currSum - k);
+        }
 
-        count += solve(root.left, targetSum - root.val);
-        count += solve(root.right, targetSum - root.val);
+        map.put(currSum, map.getOrDefault(currSum, 0) + 1);
+
+        dfs(root.left, k, currSum);
+        dfs(root.right, k, currSum);
+
+        map.put(currSum, map.get(currSum) - 1);
+    }
+
+    public int pathSum(TreeNode root, int targetSum) {
+        dfs(root, targetSum, 0);
 
         return count;
-    }
-    public int pathSum(TreeNode root, int targetSum) {
-        int ans = 0;
-
-        ans += solve(root, (long) targetSum);   //You keep doing targetSum - root.val with int. In a long chain of big values (like ±10^9), this can overflow the int
-
-        if(root != null) ans += pathSum(root.left, targetSum);
-        if(root != null) ans += pathSum(root.right, targetSum);
-
-        return ans;
     }
 }
