@@ -1,3 +1,6 @@
+// ⏱️ TC: O(E + Q × (V + E)) ≈ O(Q × (V + E)) ; Q = number of queries
+// 💾 SC: O(V + E) 
+
 class Solution {
 
     static class Edge {
