@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Graph Theory
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -42,5 +44,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 <!---LeetCode Topics End-->
