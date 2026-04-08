@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/naitiksharma014/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -46,4 +47,12 @@
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
