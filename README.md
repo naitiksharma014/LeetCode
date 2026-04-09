@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/naitiksharma014/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/naitiksharma014/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
