@@ -118,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/naitiksharma014/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 <!---LeetCode Topics End-->
