@@ -94,6 +94,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/naitiksharma014/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -128,4 +129,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
