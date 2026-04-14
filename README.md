@@ -66,6 +66,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/naitiksharma014/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -112,6 +113,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/naitiksharma014/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
