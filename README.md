@@ -35,6 +35,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/naitiksharma014/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/naitiksharma014/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitiksharma014/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -121,11 +122,13 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/naitiksharma014/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/naitiksharma014/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Simulation
