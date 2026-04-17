@@ -48,6 +48,7 @@
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -89,6 +90,7 @@
 | [0088-merge-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/naitiksharma014/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -139,6 +141,7 @@
 | [0018-4sum](https://github.com/naitiksharma014/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/naitiksharma014/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -158,4 +161,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 <!---LeetCode Topics End-->
