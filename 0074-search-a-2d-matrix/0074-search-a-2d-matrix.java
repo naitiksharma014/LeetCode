@@ -8,19 +8,16 @@ class Solution {
         int left = 0, right = n - 1;
 
         while(left <= right) {
-            int mid = left + (right + left) / 2;
+            int mid = left + (right - left) / 2;
 
             if(matrix[row][mid] == target) {
 
                 return true;
 
             } else if(matrix[row][mid] > target) {
-
-                left = mid + 1;
-
-            } else {
-
                 right = mid - 1;
+            } else {
+                left = mid + 1;
             }
         }
 
@@ -41,12 +38,10 @@ class Solution {
                 // search in the row
                 return searchInRow(matrix, midRow, target, n);
 
-            } else if(matrix[midRow][0] < target) {
-
+            } else if(target > matrix[midRow][n - 1]) {
                 startRow = midRow + 1;
-
-            } else {
-
+            } 
+            else {
                 endRow = midRow - 1;
             }
         }
