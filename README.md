@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naitiksharma014/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0072-edit-distance](https://github.com/naitiksharma014/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/naitiksharma014/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -118,6 +119,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naitiksharma014/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/naitiksharma014/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/naitiksharma014/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/naitiksharma014/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -188,4 +190,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/naitiksharma014/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/naitiksharma014/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
