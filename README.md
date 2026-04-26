@@ -54,6 +54,7 @@
 | [0169-majority-element](https://github.com/naitiksharma014/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/naitiksharma014/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -157,6 +158,7 @@
 | [0031-next-permutation](https://github.com/naitiksharma014/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/naitiksharma014/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Simulation
@@ -167,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/naitiksharma014/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/naitiksharma014/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -181,6 +184,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
