@@ -43,6 +43,7 @@
 | [0018-4sum](https://github.com/naitiksharma014/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/naitiksharma014/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/naitiksharma014/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/naitiksharma014/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/naitiksharma014/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -74,6 +75,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/naitiksharma014/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/naitiksharma014/LeetCode/tree/main/0079-word-search/) | Medium |
@@ -166,6 +168,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
