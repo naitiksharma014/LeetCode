@@ -1,5 +1,6 @@
 // Prifix Array
 // TC: O(3 * n) = O(n)
+// SC: O(n + n) = O(n)
 
 class Solution {
     public int trap(int[] height) {
