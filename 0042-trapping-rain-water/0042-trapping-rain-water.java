@@ -1,4 +1,4 @@
-// Prifix Array
+// Prefix Array
 // TC: O(3 * n) = O(n)
 // SC: O(n + n) = O(n)
 
