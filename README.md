@@ -57,6 +57,7 @@
 | [0169-majority-element](https://github.com/naitiksharma014/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/naitiksharma014/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
@@ -119,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/naitiksharma014/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -186,6 +188,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
@@ -212,8 +215,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitiksharma014/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
