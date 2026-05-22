@@ -12,6 +12,7 @@
 | [0242-valid-anagram](https://github.com/naitiksharma014/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0443-string-compression](https://github.com/naitiksharma014/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/naitiksharma014/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -183,6 +184,7 @@
 | [0125-valid-palindrome](https://github.com/naitiksharma014/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0443-string-compression](https://github.com/naitiksharma014/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
