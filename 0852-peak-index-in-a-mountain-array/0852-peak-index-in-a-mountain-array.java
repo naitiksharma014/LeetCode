@@ -1,3 +1,4 @@
+// Linear Approach
 // TC: O(n)
 
 class Solution {
