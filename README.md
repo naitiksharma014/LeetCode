@@ -78,6 +78,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -181,6 +182,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/naitiksharma014/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
