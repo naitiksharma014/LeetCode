@@ -11,6 +11,7 @@
 | [0076-minimum-window-substring](https://github.com/naitiksharma014/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/naitiksharma014/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/naitiksharma014/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/naitiksharma014/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -26,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/naitiksharma014/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/naitiksharma014/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitiksharma014/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/naitiksharma014/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Depth-First Search
@@ -251,6 +253,7 @@
 | [0039-combination-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0079-word-search](https://github.com/naitiksharma014/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
