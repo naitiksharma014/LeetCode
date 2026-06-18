@@ -60,6 +60,7 @@
 | [0018-4sum](https://github.com/naitiksharma014/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/naitiksharma014/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/naitiksharma014/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -103,6 +104,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/naitiksharma014/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/naitiksharma014/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -160,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/naitiksharma014/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/naitiksharma014/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/naitiksharma014/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/naitiksharma014/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/naitiksharma014/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
@@ -251,6 +254,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/naitiksharma014/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/naitiksharma014/LeetCode/tree/main/0051-n-queens/) | Hard |
