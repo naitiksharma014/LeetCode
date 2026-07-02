@@ -227,6 +227,7 @@
 | [0018-4sum](https://github.com/naitiksharma014/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/naitiksharma014/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/naitiksharma014/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/naitiksharma014/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/naitiksharma014/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -340,6 +341,7 @@
 | [0002-add-two-numbers](https://github.com/naitiksharma014/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/naitiksharma014/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/naitiksharma014/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/naitiksharma014/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/naitiksharma014/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/naitiksharma014/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
