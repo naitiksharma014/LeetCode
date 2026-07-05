@@ -127,6 +127,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/naitiksharma014/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/naitiksharma014/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -200,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/naitiksharma014/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/naitiksharma014/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/naitiksharma014/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -266,6 +268,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/naitiksharma014/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/naitiksharma014/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
