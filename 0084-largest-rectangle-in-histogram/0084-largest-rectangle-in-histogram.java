@@ -4,6 +4,7 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int n = heights.length;
+        
         int[] left = new int[n];
         int[] right = new int[n];
         Stack<Integer> st = new Stack<>();
