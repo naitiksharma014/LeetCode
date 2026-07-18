@@ -35,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/naitiksharma014/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -135,6 +136,7 @@
 | [0020-valid-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/naitiksharma014/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/naitiksharma014/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/naitiksharma014/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -346,6 +348,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -387,6 +390,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
