@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/naitiksharma014/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -46,6 +47,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -353,6 +355,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -396,6 +399,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
