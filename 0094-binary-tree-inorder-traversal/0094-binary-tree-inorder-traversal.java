@@ -15,7 +15,8 @@
  */
 
 // TC: O(n)
-// SC: O(n)
+// SC: O(h) recursion + O(n) output
+// Total Space: O(n)
 
 class Solution {
     List<Integer> list = new LinkedList<>();
