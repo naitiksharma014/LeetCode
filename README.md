@@ -47,6 +47,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2596-check-knight-tour-configuration](https://github.com/naitiksharma014/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -59,6 +60,7 @@
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -373,6 +375,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -423,6 +426,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
