@@ -47,6 +47,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -375,6 +376,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Merge Sort
@@ -426,6 +428,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -435,6 +438,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
