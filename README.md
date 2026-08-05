@@ -127,6 +127,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -174,6 +175,7 @@
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/naitiksharma014/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -373,6 +375,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/naitiksharma014/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,6 +409,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -471,6 +475,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Number Theory
@@ -487,6 +492,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
