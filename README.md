@@ -20,6 +20,7 @@
 | [0443-string-compression](https://github.com/naitiksharma014/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/naitiksharma014/LeetCode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | [0322-coin-change](https://github.com/naitiksharma014/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/naitiksharma014/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -546,4 +548,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/naitiksharma014/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
