@@ -18,6 +18,7 @@
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0443-string-compression](https://github.com/naitiksharma014/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -33,6 +34,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/naitiksharma014/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/naitiksharma014/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
