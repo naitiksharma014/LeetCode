@@ -29,6 +29,7 @@
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/naitiksharma014/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0072-edit-distance](https://github.com/naitiksharma014/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitiksharma014/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -292,6 +293,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/naitiksharma014/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/naitiksharma014/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Greedy
@@ -415,6 +417,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0100-same-tree/) | Easy |
@@ -484,6 +487,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0100-same-tree/) | Easy |
@@ -517,6 +521,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
