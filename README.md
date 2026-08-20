@@ -134,6 +134,7 @@
 | [0322-coin-change](https://github.com/naitiksharma014/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/naitiksharma014/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -229,6 +230,7 @@
 | [0242-valid-anagram](https://github.com/naitiksharma014/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/naitiksharma014/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -303,6 +305,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/naitiksharma014/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/naitiksharma014/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -325,6 +328,7 @@
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0443-string-compression](https://github.com/naitiksharma014/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -568,4 +572,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
