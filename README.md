@@ -37,6 +37,7 @@
 | [0322-coin-change](https://github.com/naitiksharma014/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/naitiksharma014/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/naitiksharma014/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -140,6 +141,7 @@
 | [0503-next-greater-element-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/naitiksharma014/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/naitiksharma014/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -231,6 +233,7 @@
 | [0295-find-median-from-data-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/naitiksharma014/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/naitiksharma014/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -306,6 +309,7 @@
 | [0011-container-with-most-water](https://github.com/naitiksharma014/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/naitiksharma014/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/naitiksharma014/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -572,6 +576,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/naitiksharma014/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
