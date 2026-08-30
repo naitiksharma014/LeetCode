@@ -102,6 +102,7 @@
 | [0014-longest-common-prefix](https://github.com/naitiksharma014/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/naitiksharma014/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/naitiksharma014/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/naitiksharma014/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/naitiksharma014/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
@@ -324,6 +325,7 @@
 | [0011-container-with-most-water](https://github.com/naitiksharma014/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/naitiksharma014/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/naitiksharma014/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/naitiksharma014/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/naitiksharma014/LeetCode/tree/main/0061-rotate-list/) | Medium |
