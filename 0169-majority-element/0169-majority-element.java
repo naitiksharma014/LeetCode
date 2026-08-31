@@ -1,25 +1,22 @@
-// Moore's Voting Algorithm
-// TC: O(n)
-// SC: O(1)
+// TC: (n)
 
 class Solution {
     public int majorityElement(int[] nums) {
-        int n = nums.length;
-        int ans = 0, count = 0;
+        int freq = 0, currNum = 0;
 
         for(int num: nums) {
 
-            if(count == 0) {
-                ans = num;
+            if(freq == 0) {
+                currNum = num;
             }
 
-            if(ans == num) {
-                count++;
+            if(currNum == num) {
+                freq++;
             } else {
-                count--;
+                freq--;
             }
         }
 
-        return ans;
+        return currNum;
     }
 }
