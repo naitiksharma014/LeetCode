@@ -143,6 +143,7 @@
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/naitiksharma014/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
