@@ -16,6 +16,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/naitiksharma014/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/naitiksharma014/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0443-string-compression](https://github.com/naitiksharma014/LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -281,6 +282,7 @@
 | [0217-contains-duplicate](https://github.com/naitiksharma014/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/naitiksharma014/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/naitiksharma014/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/naitiksharma014/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -308,6 +310,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/naitiksharma014/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/naitiksharma014/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +380,7 @@
 | [0225-implement-stack-using-queues](https://github.com/naitiksharma014/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/naitiksharma014/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/naitiksharma014/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
