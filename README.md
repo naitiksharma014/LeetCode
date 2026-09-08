@@ -133,6 +133,7 @@
 | [0134-gas-station](https://github.com/naitiksharma014/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/naitiksharma014/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/naitiksharma014/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/naitiksharma014/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/naitiksharma014/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/naitiksharma014/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -353,6 +354,7 @@
 | [0141-linked-list-cycle](https://github.com/naitiksharma014/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/naitiksharma014/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/naitiksharma014/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -405,6 +407,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/naitiksharma014/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/naitiksharma014/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
