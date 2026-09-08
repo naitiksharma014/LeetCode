@@ -16,8 +16,8 @@ class Solution {
 
                 result.add(Arrays.asList(-target, nums[i], nums[j]));
 
-                while(i < j && nums[i] == nums[i + 1]) i++;
-                while(i < j && nums[j] == nums[j - 1]) j--;
+                while(i < j && nums[i] == nums[i + 1]) i++;     // Duplicate
+                while(i < j && nums[j] == nums[j - 1]) j--;     // Duplicate
 
                 i++;
                 j--;
@@ -39,7 +39,7 @@ class Solution {
 
         for(int i = 0; i < n - 1; i++) {
 
-            if(i != 0 && nums[i] == nums[i - 1]) continue;
+            if(i != 0 && nums[i] == nums[i - 1]) continue;  // Duplicate
 
             int target = nums[i];
             twoSum(nums,  i + 1, -target);  // a + b + c = 0 => a + b = -c
