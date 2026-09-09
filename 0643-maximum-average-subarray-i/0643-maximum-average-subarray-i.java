@@ -1,3 +1,5 @@
+// TC: O(n)
+
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
         int n = nums.length;
