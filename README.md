@@ -330,6 +330,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/naitiksharma014/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/naitiksharma014/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0069-sqrtx](https://github.com/naitiksharma014/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -414,6 +415,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/naitiksharma014/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/naitiksharma014/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/naitiksharma014/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naitiksharma014/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -636,4 +638,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/naitiksharma014/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/naitiksharma014/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
