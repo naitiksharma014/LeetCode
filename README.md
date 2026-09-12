@@ -629,6 +629,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/naitiksharma014/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
