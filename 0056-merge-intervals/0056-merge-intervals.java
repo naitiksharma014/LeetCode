@@ -1,41 +1,34 @@
-// Line Sweep Technique
-// ⏱️ TC: O(n log n)
-// 📦 SC: O(n)
+// Sorting: O(n log n)
+// Merging: O(n)
+// Total: O(n log n) 
 
 class Solution {
     public int[][] merge(int[][] intervals) {
-        Map<Integer, Integer> events = new TreeMap<>();
+        int m = intervals.length;
+        int n = intervals[0].length;
 
-        for(int[] interval: intervals) {
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        
+        List<int[]> ans = new ArrayList<>();
 
-            int start = interval[0];
-            int end = interval[1];
+        int start = intervals[0][0];
+        int end = intervals[0][1];
 
-            events.put(start, events.getOrDefault(start, 0) + 1);
-            events.put(end, events.getOrDefault(end, 0) - 1);
-        }
+        for(int i = 1; i < m; i++) {
 
-        int count = 0;
-        int start = 0;
-        List<int[]> overLapIntervals = new ArrayList<>();
-
-        for (Map.Entry<Integer, Integer> event : events.entrySet()) {
-            int key = event.getKey();
-            int value = event.getValue();
-
-            if(count == 0) {
-                start = key; 
+            if(intervals[i][0] <= end) {
+                end = Math.max(end, intervals[i][1]);
             }
+            else {
+                ans.add(new int[]{start, end});
 
-            count += value;
-
-            if(count == 0) {
-                int end = key;
-                
-                overLapIntervals.add(new int[]{start, end});
+                start = intervals[i][0];
+                end = intervals[i][1];
             }
         }
 
-        return overLapIntervals.toArray(new int[overLapIntervals.size()][]);
+        ans.add(new int[]{start, end});
+
+        return ans.toArray(new int[ans.size()][]);
     }
 }
