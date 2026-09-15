@@ -1,23 +1,34 @@
-// TC: O(n * log n)
+// TC: O(m log m)
 
 class Solution {
     public int findLongestChain(int[][] pairs) {
-        int n = pairs.length;
+        int m = pairs.length;
+        int n = pairs[0].length;
 
-        Arrays.sort(pairs, (a, b)-> a[1] - b[1]);   // Sort on basis of pair[1] (2nd element)
-        int ans = 0;
-        int prevEnd = Integer.MIN_VALUE;
+        Arrays.sort(pairs, (a, b)-> (a[1] - b[1]));
 
-        for(int[] pair: pairs) {
+        int i = 0, j = 1;
+        int chain = 1;
 
-            int currStart = pair[0];
+        while(j < m) {
 
-            if(currStart > prevEnd) {
-                ans++;
-                prevEnd = pair[1];
-            } 
+            int currStart = pairs[i][0];
+            int currEnd   = pairs[i][1];
+
+            int nextStart = pairs[j][0];
+            int nextEnd   = pairs[j][1];
+
+            if(currEnd < nextStart) {
+                i = j;
+                j++;
+                chain++;
+
+            }
+            else {
+                j++;
+            }
         }
 
-        return ans;
+        return chain;
     }
 }
