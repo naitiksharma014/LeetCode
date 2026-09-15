@@ -8,6 +8,7 @@ class Solution {
         int maxSum = Integer.MIN_VALUE;;
 
         for(int num: nums) {
+
             if(sum < 0) {
                 sum = 0;
             }
