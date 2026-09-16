@@ -6,30 +6,44 @@ class Solution {
         int n = s.length();
         Stack<Character> st = new Stack<>();
 
-        for(int i = 0; i < n; i++) {
-            
+        int i = 0;
+
+        while(i < n) {
+
             char ch = s.charAt(i);
 
             if(ch == ')') {
-                if(st.isEmpty() || st.pop() != '(') {
+
+                if(st.isEmpty() || st.peek() != '(') {
                     return false;
+                }
+                else {
+                    st.pop();
                 }
             }
             else if(ch == '}') {
-                
-                if(st.isEmpty() || st.pop() != '{') {
+
+                if(st.isEmpty() || st.peek() != '{') {
                     return false;
+                }
+                else {
+                    st.pop();
                 }
             }
             else if(ch == ']') {
 
-                if(st.isEmpty() || st.pop() != '[') {
+                if(st.isEmpty() || st.peek() != '[') {
                     return false;
                 }
-            } 
-            else {
-                st.push(ch);
+                else {
+                    st.pop();
+                }
             }
+            else {
+                st.push(ch);    // '(', '{', '[' -> only these should be push into Stack 
+            }
+
+            i++;
         }
 
         return st.isEmpty();
