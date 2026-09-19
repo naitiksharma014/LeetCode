@@ -2,18 +2,18 @@
 // SC: (n)
 
 class Pair {
-    int val1;
-    int val2;
+    int val, minVal;
 
-    Pair(int val1, int val2) {
-        this.val1 = val1;
-        this.val2 = val2;
+    Pair(int val, int minVal) {
+        this.val = val;
+        this.minVal = minVal;
     }
 }
 
 class MinStack {
 
     Stack<Pair> st = new Stack<>();
+
     public MinStack() {
         
     }
@@ -24,8 +24,8 @@ class MinStack {
             st.push(new Pair(value, value));
         }
         else {
-            int minVal = Math.min(st.peek().val2, value);
-            st.push(new Pair(value, minVal));
+            int minValue = Math.min(value, st.peek().minVal);
+            st.push(new Pair(value, minValue));
         }
     }
     
@@ -34,11 +34,11 @@ class MinStack {
     }
     
     public int top() {
-        return st.peek().val1;
+        return st.peek().val;
     }
     
     public int getMin() {
-        return st.peek().val2;
+        return st.peek().minVal;
     }
 }
 
