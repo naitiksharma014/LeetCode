@@ -1,13 +1,13 @@
-// TC: Time: O(n + m)
-// SC: Space: O(m)
+// TC: O(m + n)
+// SC: O(1)
 
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int n = nums1.length;
         int m = nums2.length;
 
-        Stack<Integer> st = new Stack();
         Map<Integer, Integer> map = new HashMap<>();
+        Stack<Integer> st = new Stack<>();
 
         for(int i = m - 1; i >= 0; i--) {
 
@@ -17,7 +17,8 @@ class Solution {
 
             if(st.isEmpty()) {
                 map.put(nums2[i], -1);
-            } else {
+            }
+            else {
                 map.put(nums2[i], st.peek());
             }
 
@@ -25,7 +26,6 @@ class Solution {
         }
 
         for(int i = 0; i < n; i++) {
-
             int nextGreater = map.get(nums1[i]);
             nums1[i] = nextGreater;
         }
