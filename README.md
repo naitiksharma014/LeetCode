@@ -104,6 +104,7 @@
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0997-find-the-town-judge](https://github.com/naitiksharma014/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/naitiksharma014/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
