@@ -77,6 +77,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1971-find-if-path-exists-in-graph](https://github.com/naitiksharma014/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/naitiksharma014/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/naitiksharma014/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/naitiksharma014/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@
 | [0997-find-the-town-judge](https://github.com/naitiksharma014/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naitiksharma014/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/naitiksharma014/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/naitiksharma014/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +195,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/naitiksharma014/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/naitiksharma014/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
