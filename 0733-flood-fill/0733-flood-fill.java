@@ -21,7 +21,7 @@ class Solution {
         m = image.length;
         n = image[0].length;
 
-        if (image[sr][sc] == color) return image;
+        if(image[sr][sc] == color) return image;
 
         DFS(image, sr, sc, color, image[sr][sc]);
 
