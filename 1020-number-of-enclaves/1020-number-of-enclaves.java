@@ -5,7 +5,7 @@ class Solution {
     int m, n;
 
     public void DFS(int i, int j, int[][] graph) {
-        if(i < 0 || i >= m || j < 0 || j >= n || graph[i][j] != 1) {
+        if(i < 0 || i >= m || j < 0 || j >= n || graph[i][j] == 0) {
             return;
         }
 
