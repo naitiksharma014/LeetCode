@@ -66,6 +66,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/naitiksharma014/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/naitiksharma014/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/naitiksharma014/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -98,6 +99,7 @@
 | [0130-surrounded-regions](https://github.com/naitiksharma014/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/naitiksharma014/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/naitiksharma014/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/naitiksharma014/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/naitiksharma014/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -120,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/naitiksharma014/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/naitiksharma014/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/naitiksharma014/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -707,6 +710,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/naitiksharma014/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
