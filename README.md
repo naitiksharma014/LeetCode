@@ -78,6 +78,7 @@
 | [0547-number-of-provinces](https://github.com/naitiksharma014/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0684-redundant-connection](https://github.com/naitiksharma014/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/naitiksharma014/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/naitiksharma014/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -110,6 +111,7 @@
 | [0542-01-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/naitiksharma014/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0684-redundant-connection](https://github.com/naitiksharma014/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/naitiksharma014/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/naitiksharma014/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -131,6 +133,7 @@
 | [0210-course-schedule-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/naitiksharma014/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/naitiksharma014/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/naitiksharma014/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/naitiksharma014/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/naitiksharma014/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
@@ -233,6 +236,7 @@
 | [0200-number-of-islands](https://github.com/naitiksharma014/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/naitiksharma014/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/naitiksharma014/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/naitiksharma014/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/naitiksharma014/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/naitiksharma014/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
