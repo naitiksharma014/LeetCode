@@ -5,7 +5,7 @@ class Solution {
     int m, n;
 
     public void DFS(int[][] image, int i, int j, int newColor, int oldColor) {
-        if(i < 0 || j < 0 || i >= m || j >= n || image[i][j] == newColor || image[i][j] != oldColor) {
+        if(i < 0 || i >= m || j < 0 || j >= n || image[i][j] == newColor || image[i][j] != oldColor) {
             return;
         }
 
@@ -21,10 +21,8 @@ class Solution {
         m = image.length;
         n = image[0].length;
 
-        if(image[sr][sc] == color) return image;
-
         DFS(image, sr, sc, color, image[sr][sc]);
 
-        return image;
+        return image;   
     }
 }
