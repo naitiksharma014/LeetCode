@@ -1,39 +1,39 @@
-// Time = O(m × n)
-// Extra Space = O(m × n) only because of the recursion stack
+// TC: O(m * n)
+// SC: O(m * n) — recursive stack
 
 class Solution {
     int m, n;
 
-    public void DFS(int i, int j, char[][] grid, boolean[][] vis) {
-        if(i < 0 || j < 0 || i >= m || j >= n || grid[i][j] != '1' || vis[i][j]) {
+    public void DFS(int i, int j, char[][] grid) {
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] != '1') {
             return;
         }
 
-        vis[i][j] = true;
+        grid[i][j] = 2;
 
-        DFS(i + 1, j, grid, vis);
-        DFS(i - 1, j, grid, vis);
-        DFS(i, j + 1, grid, vis);
-        DFS(i, j - 1, grid, vis);
-    } 
+        DFS(i + 1, j, grid);
+        DFS(i - 1, j, grid);
+        DFS(i, j + 1, grid);
+        DFS(i, j - 1, grid);
+    }
 
     public int numIslands(char[][] grid) {
         m = grid.length;
         n = grid[0].length;
-        int island = 0;
 
-        boolean[][] vis = new boolean[m][n];
+        int count = 0;
 
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
 
-                if(grid[i][j] == '1' && !vis[i][j]) {
-                    DFS(i, j, grid, vis);
-                    island++;
+                if(grid[i][j] == '1') {
+
+                    DFS(i, j, grid);
+                    count++;
                 }
             }
         }
 
-        return island;
+        return count;
     }
 }
