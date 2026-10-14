@@ -1,37 +1,21 @@
-// BFS
-// TC: O(V + E)
-// SC: O(V + E)
+// Time Complexity: O(V + E)   V = number of vertices and E = number of edges.
+// Space Complexity: O(V)
 
 class Solution {
-    int v;
-    int[] color;
+    public boolean DFS(int src, int[][] graph, int[] color) {
+       
+        for(int neigh: graph[src]) {
 
-    public boolean BFS(int[][] graph) {
-        Queue<Integer> q = new LinkedList<>();
-        
-        for(int i = 0; i < v; i++) {
+            if(color[neigh] == 0) {
 
-            if(color[i] != 0) {
-                continue;
-            }
+                color[neigh] = - color[src];
 
-            q.add(i);
-            color[i] = 1;
-
-            while(!q.isEmpty()) {
-
-                int curr = q.poll();
-
-                for(int neigh: graph[curr]) {
-
-                    if(color[neigh] == 0) {
-                        color[neigh] = -color[curr];
-                        q.add(neigh);
-                    }
-                    else if(color[neigh] == color[curr]) {
-                        return false;
-                    }
+                if(!DFS(neigh, graph, color)) {
+                    return false;
                 }
+            }
+            else if(color[neigh] == color[src]) {
+                return false;
             }
         }
 
@@ -39,10 +23,23 @@ class Solution {
     }
 
     public boolean isBipartite(int[][] graph) {
-        v = graph.length;
+        int n = graph.length;
 
-        color = new int[v];    // 0 = uncolored, 1 = red, -1 = blue
+        int[] color = new int[n];
 
-        return BFS(graph);
+        for(int i = 0; i < n; i++) {
+
+            if(color[i] == 0) {
+
+                color[i] = 1;
+
+                if(!DFS(i, graph, color)) {
+                    return false;
+                }
+            }
+    
+        }
+
+        return true;
     }
 }
