@@ -1,7 +1,9 @@
-// TC: O(2^n)
+// TC: O(n)
 // SC: (O(n) 
 
 class Solution {
+    Integer[] dp = new Integer[46];
+
     public int climbStairs(int n) {
         if(n < 0) {
             return 0;
@@ -10,6 +12,10 @@ class Solution {
             return 1;
         }
 
-        return climbStairs(n - 1) + climbStairs(n - 2);
+        if(dp[n] != null) {
+            return dp[n];
+        }
+
+        return dp[n] = climbStairs(n - 1) + climbStairs(n - 2);
     }
 }
