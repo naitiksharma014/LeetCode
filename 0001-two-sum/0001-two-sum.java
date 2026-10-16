@@ -1,5 +1,5 @@
 // TC: O(n)
-// Sc: O(n)
+// SC: O(n)
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
