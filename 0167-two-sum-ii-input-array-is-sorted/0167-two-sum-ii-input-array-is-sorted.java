@@ -1,27 +1,29 @@
+// 2 Pointer Approach
 // TC: O(n)
-// SC: O(1)
 
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length;
+
+        int[] ans = new int[2];
         int i = 0, j = n - 1;
 
-        while(i <= j) {
+        while(i < n && j >= 0) {
 
             if(numbers[i] + numbers[j] == target) {
+                ans[0] = i + 1;
+                ans[1] = j + 1;
 
-                return new int[]{i + 1, j + 1};
-
-            } else if(numbers[i] + numbers[j] < target) {
-
+                return ans;
+            }
+            else if(numbers[i] + numbers[j] < target) {
                 i++;
-
-            } else {
-
+            }
+            else {
                 j--;
             }
         }
 
-        return numbers;
+        return ans;
     }
 }
