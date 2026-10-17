@@ -21,6 +21,7 @@
 | [0392-is-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/naitiksharma014/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/naitiksharma014/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -385,6 +386,7 @@
 | [0347-top-k-frequent-elements](https://github.com/naitiksharma014/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/naitiksharma014/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/naitiksharma014/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -547,6 +549,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksharma014/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Monotonic Stack
