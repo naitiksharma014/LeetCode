@@ -7,7 +7,7 @@ class Solution {
         int m = s.length();
         int n = t.length();
 
-        if(n > m) {
+        if(m < n) {
             return "";
         }
 
@@ -16,32 +16,35 @@ class Solution {
             freq[ch]++;
         }
 
-        int minWindowSize = Integer.MAX_VALUE;
-        int required = n;
+        int minWindow = Integer.MAX_VALUE;
+        int requiredCount = n;
         int i = 0, j = 0;
-        int start_i = 0;
+        int start = 0;
 
         while(j < m) {
 
-            if(freq[s.charAt(j)] > 0) {
-                required--;
+            char ch = s.charAt(j);
+
+            if(freq[ch] > 0) {      // Required wala
+                requiredCount--;
             }
 
-            freq[s.charAt(j)]--;
+            freq[ch]--;
 
-            while(required == 0) {
-                // Shrink the window
-                int currWindowSize = j - i + 1;
+            while(requiredCount == 0) {
 
-                if(minWindowSize > currWindowSize) {
-                    minWindowSize = currWindowSize;
-                    start_i = i; 
-                }
+                int currWindow = j - i + 1;
                 
-                freq[s.charAt(i)]++;
+                if(currWindow < minWindow) {
+                    minWindow = currWindow;
+                    start = i;
+                }
 
-                if(freq[s.charAt(i)] > 0) {
-                    required++;
+                char prevChar = s.charAt(i);
+                freq[prevChar]++;
+
+                if(freq[prevChar] > 0) {
+                   requiredCount++;
                 }
 
                 i++;
@@ -50,6 +53,6 @@ class Solution {
             j++;
         }
 
-        return minWindowSize == Integer.MAX_VALUE ? "" : s.substring(start_i, start_i + minWindowSize);
+        return minWindow == Integer.MAX_VALUE ? "" : s.substring(start, start + minWindow);
     }
 }
