@@ -1,23 +1,30 @@
+// Sliding Window
 // TC: O(n)
-// SC: O(n)
+// Sc: O(n)
 
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         int n = nums.length;
-        Map<Integer, Integer> map = new HashMap<>();    // num-> idx
 
-        for(int i = 0; i < n; i++) {
+        int i = 0, j = 0;
+        Set<Integer> set = new HashSet<>();
 
-            if(map.containsKey(nums[i])) {
+        while(j < n) {
 
-                int idx = map.get(nums[i]);
+            if(Math.abs(i - j) > k) {
 
-                if(Math.abs(idx - i) <= k) {
-                    return true;
-                }
+                int prevNum = nums[i];
+                set.remove(prevNum);
+                i++;
             }
 
-            map.put(nums[i], i);
+            int currNum = nums[j];
+            if(set.contains(currNum)) {
+                return true;
+            }
+
+            set.add(currNum);
+            j++;
         }
 
         return false;
