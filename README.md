@@ -239,6 +239,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/naitiksharma014/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/naitiksharma014/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -499,6 +500,7 @@
 | [0649-dota2-senate](https://github.com/naitiksharma014/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/naitiksharma014/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/naitiksharma014/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -555,6 +557,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksharma014/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -567,6 +570,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/naitiksharma014/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
