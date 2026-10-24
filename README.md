@@ -240,6 +240,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/naitiksharma014/LeetCode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/naitiksharma014/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/naitiksharma014/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -564,6 +565,7 @@
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksharma014/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naitiksharma014/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/naitiksharma014/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
