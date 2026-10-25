@@ -53,6 +53,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/naitiksharma014/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/naitiksharma014/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/naitiksharma014/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -565,6 +567,7 @@
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksharma014/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naitiksharma014/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/naitiksharma014/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Monotonic Stack
