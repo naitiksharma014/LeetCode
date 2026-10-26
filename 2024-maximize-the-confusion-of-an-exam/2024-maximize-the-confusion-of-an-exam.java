@@ -1,3 +1,6 @@
+// Time Complexity: \(O(n)\) — two calls to solve(), each traverses the string once.
+// Space Complexity: \(O(1)\) — only a constant number of extra variables are used.
+
 class Solution {
     public int solve(String s, int k, char flag) {
         int n = s.length();
