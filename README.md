@@ -15,6 +15,7 @@
 | [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/naitiksharma014/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/naitiksharma014/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/naitiksharma014/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -41,6 +42,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/naitiksharma014/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/naitiksharma014/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -318,6 +320,7 @@
 | [0050-powx-n](https://github.com/naitiksharma014/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/naitiksharma014/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/naitiksharma014/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/naitiksharma014/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -432,6 +435,7 @@
 | [0069-sqrtx](https://github.com/naitiksharma014/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/naitiksharma014/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/naitiksharma014/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/naitiksharma014/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -762,6 +766,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -795,4 +800,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/naitiksharma014/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 <!---LeetCode Topics End-->
