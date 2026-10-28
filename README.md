@@ -232,6 +232,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/naitiksharma014/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/naitiksharma014/LeetCode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0695-max-area-of-island](https://github.com/naitiksharma014/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/naitiksharma014/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/naitiksharma014/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -538,6 +539,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/naitiksharma014/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/naitiksharma014/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/naitiksharma014/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naitiksharma014/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
@@ -562,6 +564,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/naitiksharma014/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/naitiksharma014/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/naitiksharma014/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naitiksharma014/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -574,6 +577,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksharma014/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/naitiksharma014/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naitiksharma014/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naitiksharma014/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
