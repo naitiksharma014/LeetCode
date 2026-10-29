@@ -253,6 +253,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/naitiksharma014/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiksharma014/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -407,6 +408,7 @@
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0997-find-the-town-judge](https://github.com/naitiksharma014/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/naitiksharma014/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiksharma014/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -583,6 +585,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naitiksharma014/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/naitiksharma014/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiksharma014/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
