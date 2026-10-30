@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/naitiksharma014/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/naitiksharma014/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/naitiksharma014/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/naitiksharma014/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/naitiksharma014/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -438,6 +439,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/naitiksharma014/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/naitiksharma014/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/naitiksharma014/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/naitiksharma014/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/naitiksharma014/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -816,4 +818,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/naitiksharma014/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/naitiksharma014/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
