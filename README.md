@@ -237,6 +237,7 @@
 | [0733-flood-fill](https://github.com/naitiksharma014/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/naitiksharma014/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -291,6 +292,7 @@
 | [0542-01-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/naitiksharma014/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/naitiksharma014/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/naitiksharma014/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -508,6 +510,7 @@
 | [0136-single-number](https://github.com/naitiksharma014/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/naitiksharma014/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/naitiksharma014/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Queue
@@ -563,6 +566,7 @@
 | [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/naitiksharma014/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -822,4 +826,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/naitiksharma014/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
