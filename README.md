@@ -239,6 +239,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/naitiksharma014/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [0992-subarrays-with-k-different-integers](https://github.com/naitiksharma014/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/naitiksharma014/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/naitiksharma014/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -411,6 +412,7 @@
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/naitiksharma014/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/naitiksharma014/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/naitiksharma014/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/naitiksharma014/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiksharma014/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -437,6 +439,7 @@
 | [0169-majority-element](https://github.com/naitiksharma014/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/naitiksharma014/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/naitiksharma014/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -588,6 +591,7 @@
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/naitiksharma014/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/naitiksharma014/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/naitiksharma014/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/naitiksharma014/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/naitiksharma014/LeetCode/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
