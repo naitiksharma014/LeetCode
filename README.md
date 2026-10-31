@@ -98,6 +98,7 @@
 | [0802-find-eventual-safe-states](https://github.com/naitiksharma014/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/naitiksharma014/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/naitiksharma014/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/naitiksharma014/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1020-number-of-enclaves](https://github.com/naitiksharma014/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -640,6 +641,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/naitiksharma014/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -710,6 +712,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/naitiksharma014/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -730,6 +733,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/naitiksharma014/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/naitiksharma014/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/naitiksharma014/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/naitiksharma014/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/naitiksharma014/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/naitiksharma014/LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## String Matching
