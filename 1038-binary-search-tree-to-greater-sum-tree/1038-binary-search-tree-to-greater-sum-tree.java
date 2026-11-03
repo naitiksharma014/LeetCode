@@ -32,13 +32,9 @@ class Solution {
 
         solve(root.left);
     }
-
     public TreeNode bstToGst(TreeNode root) {
-        if(root == null) {
-            return root;
-        }
-
         solve(root);
+
         return root;
     }
 }
