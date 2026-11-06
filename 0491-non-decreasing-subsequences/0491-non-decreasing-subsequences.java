@@ -1,8 +1,10 @@
+// Time: (O(2^n * n) approximately.
+// Auxiliary space: O(n), excluding output.
+
 class Solution {
-    
     int n;
-    List<List<Integer>> res = new ArrayList<>();
     List<Integer> list = new ArrayList<>();
+    List<List<Integer>> res = new ArrayList<>();
 
     public void solve(int i, int prev, int[] nums) {
         if(i == n) {
