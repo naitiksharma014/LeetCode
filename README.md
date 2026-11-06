@@ -231,6 +231,7 @@
 | [0455-assign-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0463-island-perimeter](https://github.com/naitiksharma014/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/naitiksharma014/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/naitiksharma014/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -416,6 +417,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/naitiksharma014/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/naitiksharma014/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/naitiksharma014/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/naitiksharma014/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/naitiksharma014/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -521,6 +523,7 @@
 | [0090-subsets-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/naitiksharma014/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/naitiksharma014/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/naitiksharma014/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/naitiksharma014/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/naitiksharma014/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
@@ -576,6 +579,7 @@
 | [0079-word-search](https://github.com/naitiksharma014/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/naitiksharma014/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/naitiksharma014/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/naitiksharma014/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/naitiksharma014/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
