@@ -58,6 +58,7 @@
 | [1143-longest-common-subsequence](https://github.com/naitiksharma014/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/naitiksharma014/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/naitiksharma014/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/naitiksharma014/LeetCode/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
@@ -528,6 +530,7 @@
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/naitiksharma014/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -583,6 +586,7 @@
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/naitiksharma014/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -861,4 +865,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 <!---LeetCode Topics End-->
