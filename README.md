@@ -254,6 +254,7 @@
 | [1020-number-of-enclaves](https://github.com/naitiksharma014/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/naitiksharma014/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/naitiksharma014/LeetCode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/naitiksharma014/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/naitiksharma014/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -530,6 +531,7 @@
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/naitiksharma014/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/naitiksharma014/LeetCode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -586,6 +588,7 @@
 | [0494-target-sum](https://github.com/naitiksharma014/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/naitiksharma014/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/naitiksharma014/LeetCode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -869,4 +872,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/naitiksharma014/LeetCode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 <!---LeetCode Topics End-->
