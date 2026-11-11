@@ -881,4 +881,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/naitiksharma014/LeetCode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
