@@ -21,17 +21,17 @@ class Solution {
             return root;
         }
 
-        TreeNode leftLCA = lowestCommonAncestor(root.left, p, q);
+        TreeNode leftLCA  = lowestCommonAncestor(root.left, p, q);
         TreeNode rightLCA = lowestCommonAncestor(root.right, p, q);
 
         if(leftLCA != null && rightLCA != null) {
             return root;
         }
-        else if(leftLCA != null) {
-            return leftLCA;
+        else if(leftLCA == null) {
+            return rightLCA;
         }
         else {
-            return rightLCA;
+            return leftLCA;
         }
     }
 }
