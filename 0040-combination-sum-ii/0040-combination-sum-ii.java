@@ -1,44 +1,38 @@
-// Time Complexity  : O(2^n)
-// Space Complexity : O(n) auxiliary
-
 class Solution {
-    int n; 
-    List<Integer> list = new ArrayList<>();
-    List<List<Integer>> result = new ArrayList<>();
+    int n;
+    Set<Integer> set = new HashSet<>();
+    List<Integer> currList = new ArrayList<>();
+    List<List<Integer>> resultList = new ArrayList<>();
 
-    public void solve(int[] candidates, int tar, int i) {
-        if(tar == 0) {
-            result.add(new ArrayList<>(list));
+    public void solve(int idx, int sum, int[] candidates, int target) {
+        if(sum == target) {
+            resultList.add(new ArrayList<>(currList));
             return;
         }
 
-        if(i >= n || tar < 0){
+        if(sum > target) {
             return;
         }
 
+        for(int i = idx; i < n; i++) {
+            
+            if(i > idx && candidates[i] == candidates[i - 1]) {
+    continue;
+}
 
-        // Take
-        list.add(candidates[i]);
-        solve(candidates, tar - candidates[i], i + 1);
-        list.remove(list.size() - 1);
+            currList.add(candidates[i]);
 
-        int j = i;      //To Handle Duplicate Values
+            solve(i + 1, sum + candidates[i], candidates, target);
 
-        while(j + 1 < n && candidates[j] == candidates[j + 1]) {
-            j++;
+            currList.remove(currList.size() - 1);
         }
-
-        //Skip
-        solve(candidates, tar, j + 1);
     }
 
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         n = candidates.length;
-
         Arrays.sort(candidates);
 
-        solve(candidates, target, 0);
-
-        return result;
+        solve(0, 0, candidates, target);
+        return resultList;
     }
 }
