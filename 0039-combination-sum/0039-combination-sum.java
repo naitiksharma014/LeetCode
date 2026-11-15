@@ -1,33 +1,32 @@
 class Solution {
-
     int n;
-    List<Integer> list = new ArrayList<>();
-    List<List<Integer>> result = new ArrayList<>();
+    List<Integer> currList = new ArrayList<>();
+    List<List<Integer>> resultList = new ArrayList<>();
 
-    public void solve(int[] candidates, int tar, int i) {
-        if(i == n || tar < 0) {
+    public void solve(int idx, int sum, int[] candidates, int target) {
+        if(sum == target) {
+            resultList.add(new ArrayList<>(currList));
             return;
         }
 
-        if(tar == 0) {
-            result.add(new ArrayList<>(list));
+        if(sum > target) {
             return;
         }
 
-        // Take
-        list.add(candidates[i]);                        // ADD
-        solve(candidates, tar - candidates[i], i);      // Explore
-        list.remove(list.size() - 1);                   // Remove
+        for(int i = idx; i < n; i++) {
 
-        //Skip
-        solve(candidates, tar, i+1);
+            currList.add(candidates[i]);
+
+            solve(i, sum + candidates[i], candidates, target);
+
+            currList.remove(currList.size() - 1);
+        }
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         n = candidates.length;
+        solve(0, 0, candidates, target);
 
-        solve(candidates, target, 0);
-
-        return result;
+        return resultList;
     }
 }
