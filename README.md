@@ -61,6 +61,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/naitiksharma014/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/naitiksharma014/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/naitiksharma014/LeetCode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +273,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/naitiksharma014/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/naitiksharma014/LeetCode/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/naitiksharma014/LeetCode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiksharma014/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/naitiksharma014/LeetCode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -386,6 +388,7 @@
 | [0912-sort-an-array](https://github.com/naitiksharma014/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/naitiksharma014/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/naitiksharma014/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/naitiksharma014/LeetCode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +438,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/naitiksharma014/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/naitiksharma014/LeetCode/tree/main/0997-find-the-town-judge/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/naitiksharma014/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/naitiksharma014/LeetCode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiksharma014/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Design
@@ -473,6 +477,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/naitiksharma014/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/naitiksharma014/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2597-the-number-of-beautiful-subsets](https://github.com/naitiksharma014/LeetCode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/naitiksharma014/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -601,6 +606,7 @@
 | [0980-unique-paths-iii](https://github.com/naitiksharma014/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/naitiksharma014/LeetCode/tree/main/1601-maximum-number-of-achievable-transfer-requests/) | Hard |
 | [2305-fair-distribution-of-cookies](https://github.com/naitiksharma014/LeetCode/tree/main/2305-fair-distribution-of-cookies/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/naitiksharma014/LeetCode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -878,6 +884,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/naitiksharma014/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [2597-the-number-of-beautiful-subsets](https://github.com/naitiksharma014/LeetCode/tree/main/2597-the-number-of-beautiful-subsets/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
