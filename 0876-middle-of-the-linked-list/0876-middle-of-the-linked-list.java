@@ -9,8 +9,9 @@
  * }
  */
 
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+// Slow - Fast Pointer
+// TC: O(n)
+// SC: O(1)
 
 class Solution {
     public ListNode middleNode(ListNode head) {
