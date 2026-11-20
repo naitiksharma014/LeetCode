@@ -10,16 +10,15 @@
  * }
  */
 
-// Time Complexity: O(n)
-// Space Complexity: O(1)
+// TC: O(n)
+// SC: O(n)
 
 public class Solution {
     public ListNode detectCycle(ListNode head) {
         if(head == null || head.next == null) {
             return null;
         }
-        
-        int pos = 0;
+
         ListNode slow = head;
         ListNode fast = head;
         boolean isCycle = false;
@@ -34,9 +33,9 @@ public class Solution {
             }
         }
 
-        if(isCycle == false) {
+        if(!isCycle) {
             return null;
-        }
+        } 
 
         slow = head;
 
