@@ -11,7 +11,7 @@
  */
 
 // TC: O(n)
-// SC: O(n)
+// SC: O(1)
 
 public class Solution {
     public ListNode detectCycle(ListNode head) {
