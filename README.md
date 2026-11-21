@@ -474,6 +474,7 @@
 | [0070-climbing-stairs](https://github.com/naitiksharma014/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/naitiksharma014/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/naitiksharma014/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0382-linked-list-random-node](https://github.com/naitiksharma014/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/naitiksharma014/LeetCode/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/naitiksharma014/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiksharma014/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -726,6 +727,7 @@
 | [0234-palindrome-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0382-linked-list-random-node](https://github.com/naitiksharma014/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naitiksharma014/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -909,4 +911,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naitiksharma014/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/naitiksharma014/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/naitiksharma014/LeetCode/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
